@@ -8,3 +8,9 @@ __pycache__/
 # Django
 db.sqlite3
 .env
+# Django logs & local settings
+*.log
+local_settings.py
+
+# IDE files
+.vscode/
